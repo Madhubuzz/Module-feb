@@ -169,6 +169,38 @@ border-radius: 20px;
 #pink{
     border-radius: 40px;
 }
+#items-1{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+}
+.row-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 200px;
+    height: 100%;
+    background:rgba(144, 144, 144, 0.25);    
+    border-radius: 20px;
+      
+}
+.row-1-1{
+    width: 100%;
+    height: 30%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    
+}
+.font{
+   font-size: small;
+} 
+.f-gr{
+    color: grey;
+}
 
 
 
