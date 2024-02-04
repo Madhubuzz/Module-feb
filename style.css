@@ -10,6 +10,7 @@
     flex-wrap: wrap;
     position: sticky;
     justify-content: space-around;
+    background-color: azure;
     align-items: center;
     top: 0px;
     line-height: 5;
@@ -183,7 +184,7 @@ border-radius: 20px;
     height: 100%;
     background:rgba(144, 144, 144, 0.25);    
     border-radius: 20px;
-      
+
 }
 .row-1-1{
     width: 100%;
@@ -200,6 +201,17 @@ border-radius: 20px;
 } 
 .f-gr{
     color: grey;
+}
+.fc-red{
+    color:#ff644b;
+}
+#footer{
+    width: 100%;
+    background-color: #fbf3eb;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
 }
 
 
